@@ -43,7 +43,7 @@
 ♦ Identity and Access Management (CIAM, IDM)<br>
 <br>
 
-## Experience
+## 💼 Experience
 
 • I am best in researching solution design/arch, building platform from scratch to PROD and selecting best robust technologies that can help in achieving the goal of the organization. This could also include determining what Cloud services can be used to be integrated with the core applications of the system.<br>
 • Automating the complete setup of all resources with minimal human intervention<br>
@@ -60,7 +60,7 @@
 • Keeping costing structure Optimized - Analyzing and Suggesting best infrastructure and services of AWS with optimum costs and robust architecture<br>
 
 
-### 🚪 Identity and access management (IDM/CIAM)
+#### 🚪 Identity and access management (IDM/CIAM)
 
 • Cognito, SAML, OAuth, OpenID Connect (OIDC) authentications integration whether it is custom or vendor specific<br>
 • Social identity providers like Facebook, Google, Amazon, and Apple<br>
@@ -70,7 +70,7 @@
 • Role-based access control (RBAC), Attribute-based access control (ABAC)<br>
 
 
-### 📍 Security Management
+#### 📍 Security Management
 
 • Safeguarding the entire DevOps environment through strategies, policies, processes<br>
 • Entail embedding governance and cybersecurity functions such as IAM, privilege management, firewalling / unified threat management, code review, and vulnerability management throughout the DevOps workflow<br>
