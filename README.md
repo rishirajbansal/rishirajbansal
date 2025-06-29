@@ -9,9 +9,9 @@
 <br>
 
 🔭 Find me on:<br>
-🌐 https://www.linkedin.com/in/rishirajbansal <br>
-🌐 https://www.rishirajbansal.com<br>
-📬 [rishiraj.specialist@gmail.com](mailto:rishiraj.specialist@gmail.com) *or* [rishi@rishirajbansal.com](mailto:rishi@rishirajbansal.com)
+- 🌐 https://www.linkedin.com/in/rishirajbansal <br>
+- 🌐 https://www.rishirajbansal.com<br>
+- 📬 [rishiraj.specialist@gmail.com](mailto:rishiraj.specialist@gmail.com) *or* [rishi@rishirajbansal.com](mailto:rishi@rishirajbansal.com)
 
 <br>
 
