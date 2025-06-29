@@ -1,4 +1,4 @@
-# 🙏 About Myself
+## 🙏 About Myself
 
 ♦ 20+ years of total experience in Software engineering and Systems Architecture. Providing software services & solutions to various industry verticals in most reliable & consistent manner, assisting the industries to make their businesses more successful with optimum costing structure and rapid ROIs execution plans. <br>
 ♦ 12+ years of Experience in DevOps, DevSecOps, Cloud Engineering/Architect<br>
@@ -15,7 +15,7 @@
 
 <br>
 
-# 🏭 Industries Served
+## 🏭 Industries Served
 
 ♦ HealthCare (https://www.engagedmd.com, https://www.visibleep.com)<br>
 ♦ FinTech (RBS, Western Union Money Transfer, NCR/Diebold ATMs)<br>
@@ -23,12 +23,12 @@
 ♦ Manufacturing/Retail (https://www.ghirardelli.com,https://www. e-supplylink.com)<br>
 <br>
 
-# 📝 Governance & Compliances
+## 📝 Governance & Compliances
 
 ▪ HIPAA ▪ NIST ▪ SOC 1/2/3 ▪ PCI-DSS ▪ GDPR ▪ CCPA ▪ SEC<br>
 <br>
 
-# 💡 Expertise
+## 💡 Expertise
 
 ♦ Cloud Infra Setup/Automation<br>
 ♦ Networking setup in Cloud Providers<br>
@@ -43,10 +43,9 @@
 ♦ Identity and Access Management (CIAM, IDM)<br>
 <br>
 
-# Experience
+## Experience
 
-• I am best in researching solution design/arch, building platform from scratch to PROD and selecting best robust technologies that can help in achieving the goal of the organization. This could also include determining what Cloud services can be used to be integrated with the core applications of the system.
-
+• I am best in researching solution design/arch, building platform from scratch to PROD and selecting best robust technologies that can help in achieving the goal of the organization. This could also include determining what Cloud services can be used to be integrated with the core applications of the system.<br>
 • Automating the complete setup of all resources with minimal human intervention<br>
 • CI/CD Pipeline Management: Design, implement, and maintain CI/CD pipelines using tools like GitHub Actions, BitBucket Pipelines and AWS CodeBuild/CodePipeline to automate the software delivery process.<br>
 • Cloud Services Management: Manage and optimize cloud resources for scalability, performance, and cost-effectiveness while implementing security best practices.<br>
@@ -60,8 +59,6 @@
 • Experience in handling projects of large scale secure systems with high volume and high-performance requirements, Cross-language, Cross-platform applications<br>
 • Keeping costing structure Optimized - Analyzing and Suggesting best infrastructure and services of AWS with optimum costs and robust architecture<br>
 
-</details>
-<br>
 
 ### 🚪 Identity and access management (IDM/CIAM)
 
@@ -87,7 +84,7 @@
 • Tools: Hashicorp Vault, onetimepassword, lastpass, SSH Keys, JWT Tokens, Cognito, SSO, Shield, WAF, IAM, Security hub, Trusted Advisor, Guard Duty<br>
 <br>
 
-# 🏆AWARDS & ACHIEVEMENTS
+## Awards & Achievements
 
 •  'Core Value' award from Sapient Corporation (US) 
 
@@ -95,7 +92,7 @@
 <br>
 
 
-# 👨‍💻 Tech Stack 
+## 👨‍💻 Tech Stack 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)<br>
@@ -104,7 +101,7 @@
 <br>
 <br>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=rishirajbansal&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=rishirajbansal&theme=dark&hide_border=true) <br/> -->
