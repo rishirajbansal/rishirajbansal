@@ -34,7 +34,7 @@
 ♦ Networking setup in Cloud Providers<br>
 ♦ IaC (CDK, Terraform, Pulumi)<br>
 ♦ Containerization, Orchestration<br>
-♦ Deployment Automations<br>
+♦ Deployment and Release Management<br>
 ♦ Configuration Management <br>
 ♦ CI/CD Pipelines management <br>
 ♦ Security Alignments <br>
@@ -47,12 +47,7 @@
 
 • I am best in researching solution design/arch, building platform from scratch to PROD and selecting best robust technologies that can help in achieving the goal of the organization. This could also include determining what Cloud services can be used to be integrated with the core applications of the system.
 
-<details>
-<summary>Show More</summary>
-
 • Automating the complete setup of all resources with minimal human intervention<br>
-• Deployment and Release Management <br>
-• Drafting Low Level technical design document for Infrastructure and creating various types of diagrams<br>
 • CI/CD Pipeline Management: Design, implement, and maintain CI/CD pipelines using tools like GitHub Actions, BitBucket Pipelines and AWS CodeBuild/CodePipeline to automate the software delivery process.<br>
 • Cloud Services Management: Manage and optimize cloud resources for scalability, performance, and cost-effectiveness while implementing security best practices.<br>
 • Collaboration and Communication: Work closely with development, QA, and operations teams to foster a collaborative culture, ensuring alignment on project goals and timelines.<br>
