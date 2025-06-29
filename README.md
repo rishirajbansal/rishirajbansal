@@ -20,7 +20,7 @@
 ♦ HealthCare (https://www.engagedmd.com, https://www.visibleep.com)<br>
 ♦ FinTech (RBS, Western Union Money Transfer, NCR/Diebold ATMs)<br>
 ♦ ITTech (https://www.fitrix.com)<br>
-♦ Manufacturing/Retail (https://www.ghirardelli.com,https://www. e-supplylink.com)<br>
+♦ Manufacturing/Retail (https://www.ghirardelli.com, https://www.e-supplylink.com)<br>
 <br>
 
 ## 📝 Governance & Compliances
