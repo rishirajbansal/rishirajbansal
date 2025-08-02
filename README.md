@@ -1,6 +1,6 @@
 ## 🙏 About Myself
 
-    AI Engineer specialized in building production-ready multi-agent systems, intelligent workflows, and Gen AI integrations. I help startups and enterprises automate decision-making, reduce costs, and launch faster using cutting-edge LLM tooling and agent frameworks.
+AI Engineer specialized in building production-ready multi-agent systems, intelligent workflows, and Gen AI integrations. I help startups and enterprises automate decision-making, reduce costs, and launch faster using cutting-edge LLM tooling and agent frameworks.<br>
 
 ♦ 20+ years of total experience in Software engineering and Systems Architecture. Providing software services & solutions to various industry verticals in most reliable & consistent manner, assisting the industries to make their businesses more successful with optimum costing structure and rapid ROIs execution plans. <br>
 ♦ 3+ years of Experience in AI Engineering, Agentic AI, Workflow automation, Machine Learning, RAG, LLMs<br>
