@@ -72,31 +72,26 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 - Designing intelligent autonomous agents with role-specific capabilities, enabling task execution through reasoning, memory, planning, and tool use.<br>
 - Implementing reactive, proactive, learning and goal-driven agent behaviors using LLM backbones and structured control mechanisms.<br>
 - Integrate APIs, knowledge bases, and external tools to empower agents with real-world utility and multi-functionality.<br>
-<br>
 
 ### ➥ AI Agent Lifecycle Management<br>
 - Designing agent lifecycle hooks (init, task, feedback, memory reset)<br>
 - Handling context windows, memory management, and retries<br>
-<br>
 
 ### ➥ Agentic AI with Multi-Agent Architecture<br>
 - Designing scalable AI systems using multi-agent patterns like parallel, sequential, router, loop, and aggregator for orchestrating complex workflows.<br>
 - Inter-agent communication and collaboration through shared memory, messaging protocols, and dynamic task delegation.<br>
 - Applying diverse agent architectures including Reactive, Deliberative, Hybrid, Neural-Symbolic, and cognitive models like SOAR and ACT-R.<br>
 - Building real-world multi-agent systems using frameworks like CrewAI, LangGraph, and OpenAI Agents SDK to deliver autonomous, tool-using AI agents.<br>
-<br>
 
 ### ➥ LLM Integration & Customization<br>
 - Embed LLMs (OpenAI GPT, Claude, LLaMA, etc.) into agent workflows, leveraging APIs or local deployments.<br>
 - Fine-tune or prompt-tune models using domain-specific data, enabling context-aware and customized outputs.<br>
 - Handle model evaluation, versioning, latency optimization, and fallback logic for robust deployments.<br>
-<br>
 
 ### ➥ PromptOps & LLMOps<br>
 - Maintaining and optimizing prompt libraries<br>
 - Evaluating prompt performance over time<br>
 - Integration with dashboards for prompt experimentation (e.g., PromptLayer, WhyLabs)<br>
-<br>
 
 ### ➥ AI Workflow Automation<br>
 - Use task chaining, memory recall, context injection, and tool calling to handle dynamic inputs and variable outputs.<br>
@@ -104,52 +99,44 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 - Building automation pipelines integrating LLMs with tools like Gmail, Slack, Notion, HubSpot, and Calendly — automating reminders, lead responses, scheduling, and ticket management.<br>
 - Enabling seamless AI-driven actions like parsing documents, generating insights, sending alerts, updating records, or notifying teams — with fallback/retry logic and webhook support.<br>
 - Optimizing internal operations and customer engagement by combining agentic reasoning with structured flows — delivering faster decisions, reduced manual workload, and high reliability.<br>
-<br>
 
 ### ➥ AI Frameworks<br>
 - Modular Framework Proficiency: Deep hands-on experience with LangChain, LangGraph, CrewAI, and OpenAI Agents SDK to implement modular AI systems, supporting agent lifecycle control, role-based task execution, and dynamic tool invocation.<br>
 - Tool Integration & Chaining: Design and optimize complex prompt chains with integrated tools (APIs, DBs, vector stores, scrapers, browsers) to enhance agent context, enable decisions, and ensure reliability across workflows.<br>
 - Prompt Routing & Control Logic: Implement advanced routing mechanisms using prompt selectors, retrievers, and context windows to ensure efficient handling of multi-turn conversations and decision trees.<br>
 - Workflow Governance: Embed observability, guardrails, and fallback strategies within AI pipelines, enabling transparent monitoring, auditing, and fine-tuning across real-world use cases.<br>
-<br>
 
 ### ➥ Local AI & Private Model Hosting<br>
 - Deploy LLMs locally using tools like Ollama, LM Studio, or Text Generation WebUI for air-gapped or regulated environments.<br>
 - Quantize and compress models using GGUF, GPTQ, and AWQ to optimize performance on edge devices or limited hardware.<br>
 - Enable private AI operations without external API dependencies, preserving data privacy and operational sovereignty, cost-effective and customization<br>
-<br>
 
 ### ➥ AI Orchestration & Control Plane<br>
 - Build orchestrators to manage agent lifecycle, prompt flows, memory state, feedback loops, and fallback/retry mechanisms.<br>
 - Incorporate control-flow logic, decision trees, conditionals, and loop mechanisms within agent pipelines.<br>
 - Enable monitoring, observability, audit logging, and recovery in long-running or stateful agent tasks.<br>
-<br>
 
 ### ➥ Data Infrastructure & Vector Stores<br>
 - Implement vector-based search and retrieval systems using Pinecone, Weaviate, ChromaDB or Qdrant<br>
 - Design chunking, embedding strategies (OpenAI, Cohere, HuggingFace), indexing, filtering, and reranking pipelines.<br>
 - Secure and scale vector DBs with encryption, sharding, and tenant separation as needed.<br>
-<br>
 
 ### ➥ Computer Vision Capabilities<br>
 - Integrate CV modules into agent workflows to enable image parsing, document processing, layout analysis, and object recognition<br>
 - Use models/APIs for OCR, table detection, image classification, semantic segmentation, and web entity extraction<br>
 - Combine CV outputs with LLM reasoning for rich multimodal agent capabilities<br>
-<br>
 
 ### ➥ MCP (Model Context Protocol)<br>
 - Design and implement MCP that define how multiple models (LLMs, CV, ASR, classifiers, etc.) interact intelligently in an orchestrated environment<br>
 - Enable dynamic model routing, composition, and coordination — where agents decide at runtime which models or tools to call, in what order, and with what parameters<br>
 - Optimize cross-model communication using shared memory constructs, context adapters, and role-specific prompts, improving task decomposition and modularity<br>
 - Apply MCP frameworks to build scalable, resilient AI systems in multi-modal, multi-stage environments (e.g., document workflows, customer journey automation, enterprise process intelligence).<br>
-<br>
 
 ### ➥ Agentic RAG (Retrieval-Augmented Generation)<br>
 - Architecting advanced Agentic RAG systems where autonomous agents handle retrieval, filtering, synthesis, and citation — going beyond traditional RAG by adding reasoning, planning, and decision logic.<br>
 - Design intelligent retriever-reader-planner loops, where agents collaborate to pull relevant data, validate it, and formulate grounded, accurate responses with transparent attribution.<br>
 - Implement layered vector search strategies (semantic + keyword), followed by multi-pass re-ranking and summarization, improving recall without hallucination.<br>
 - Integrate domain-specific memory (structured + unstructured) and long-term vector stores into the agent’s context, enabling adaptive recall and knowledge continuity across sessions.<br>
-<br>
 
 ### ➥ Observability, Evaluation, Tracing<br>
 - Track model behavior, token usage, latency, and accuracy in real-time with dashboards and logs.<br>
@@ -157,39 +144,22 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 - Evaluating Pipelines & Alerting: Implement automated eval pipelines, online testing, and alert systems to detect hallucinations, performance regressions, and degraded response quality in real time.<br>
 - Real-Time Monitoring & Failure Detection: Leverage live dashboards, session replays, and intelligent error tracking to identify agent failures, tool misuse, or broken multi-agent coordination quickly and efficiently.<br>
 - Cost & Tooling Analytics: Gain insights into LLM/API cost consumption, external tool usage patterns, and end-to-end session analytics to optimize spend and improve agent reliability.<br>
-<br>
 
 ### ➥ Deployment & Infrastructure<br>
 - Deployment management of agents on cloud-native platforms like AWS, Azure, or in secure on-prem environments.<br>
 - Containerize models and orchestration layers using Docker/Kubernetes for portability and scale.<br>
 - Build CI/CD pipelines to automate build, test, deploy, and rollback for agent systems.<br>
-<br>
 
 ### ➥ Security & Governance<br>
 - Implement security best practices including prompt injection prevention, secrets management, API rate limiting, and RBAC<br>
 - Conduct threat modeling and align systems with regulatory frameworks (HIPAA, GDPR, SOC2)<br>
 - Use validation layers and guardrails (e.g., Rebuff, Guardrails.ai, LMQL) to constrain and verify model outputs.<br>
-<br>
 
 ### ➥ Miscellaneous<br>
 - Deep understanding of GGUF, GPTQ, AWQ, and other quantization formats for efficient model inference.<br>
 - Capable of evaluating models based on architecture, context window, hardware requirements, and downstream performance.<br>
 - Stay current on quantization advances, tokenizer optimizations, and architecture benchmarking (MMLU, MT-Bench, etc.).<br>
-<br>
 
-
-#### 📍 Security Management
-
-- Safeguarding the entire DevOps environment through strategies, policies, processes<br>
-- Entail embedding governance and cybersecurity functions such as IAM, privilege management, firewalling / unified threat management, code review, and vulnerability management throughout the DevOps workflow<br>
-- Security Alignments: Implement security measures throughout the development and deployment lifecycle, ensuring compliance with industry standards. Have implemented HIPAA and PCI-DSS compliances<br>
-- Database Encryption, Encryption at rest, Encryption at transit<br>
-- Deep understanding of IAM (to securely control AWS resources accesses) users, roles, policies and Security Groups to secure the applications, infrastructure components, servers etc.<br>
-- Threat Modeling and Risk Analysis: Identify potential security threats and assess the risk associated with them<br>
-- Security Policy Implementation: Develop and implement security policies and procedures to protect the organization's assets. <br>
-- Vulnerability Management: Identify, assess, and mitigate security vulnerabilities. <br>
-- Data Protection: Implement measures to protect sensitive data and prevent data breaches<br>
-- Tools: Hashicorp Vault, onetimepassword, lastpass, SSH Keys, JWT Tokens, Cognito, SSO, Shield, WAF, IAM, Security hub, Trusted Advisor, Guard Duty<br>
 <br>
 
 ## Awards & Achievements
@@ -207,7 +177,6 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 - Models: OpenAI, Anthropic Claude, Cohere, Llama<br>
 - Quantized Models: GGUF, GPTQ, AWQ<br>
 - Model Serving/Deployments: Hugging Face, Ollama, LM Studio, LLMLite, Text Generation WebUI, llms.txt<br>
-<br>
 
 ### ❒ Agent Frameworks & Orchestration<br>
 - Capabilities: Prompts, Chaining, Structured Output, Tools, Runnnables, Vector Stores, Streaming, Retrievers, Graphs/Nodes/Edges, Scalability<br>
@@ -216,21 +185,18 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 - Memory & State: LangMem, Redis, Chroma<br>
 ▪ MCP (Model Context Protocol) – Model coordination and intelligent routing<br>
 ▪ Agentic RAG – Retrieval agents with goal-aware data enrichment<br>
-<br>
 
 ### ❒ Vector Search & Retrieval Infrastructure<br>
 - Capabilities: Searching, Indexing, Filtering, Reranking, Quantization<br>
 - Databases: Pinecone, Weaviate, Qdrant, ChromaDB<br>
 - Embedding Models: OpenAI, Hugging Face Transformers, Cohere<br>
 - Indexing & Retrieval Enhancements: Chunking, Reranking, Quantization, Hybrid Search<br>
-<br>
 
 ### ❒ Hugging Face Ecosystem<br>
 - Capabilities: Transformers, Diffusers, Datasets, Tokenizers, timm, Hub, Inference<br>
 - Model Hub: Hosting, loading, fine-tuning transformer models<br>
 - Transformers: Custom pipelines for NLP, CV, and multi-modal tasks<br>
 - Model Deployment: Inference Endpoints, Spaces, Accelerated Transformers<br>
-<br>
 
 ### ❒ AI Workflow Automation<br>
 - Capabilities: Prompt Chaining, Parallelization, Orchestration, Routing, Custom Functions <br>
@@ -238,7 +204,6 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 - Automation Platforms: n8n, Reflection AI, custom LLM-integrated flows<br>
 - Voice & Dialog Systems: Voiceflow.ai, Vapi for multimodal interaction<br>
 - End-to-End Workflows: LLM → Tool → Agent → API → Slack/Email → Evaluation<br>
-<br>
 
 ### ❒ Computer Vision<br>
 - Capabilities: OCR & Text Detection, Object Detection & Image Segmentation, Handwriting recognition, table extraction, Invoice parsing, Image Analysis & Metadata Extraction<br>
@@ -246,13 +211,11 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 - Computer Vision & Agent Workflows<br>
    - Image-to-insight pipelines using LangChain or CrewAI for OCR → Text → RAG<br>
    - Playwright-driven browser agents with CV to extract info from images, charts, dashboards<br>
-<br>
 
 ### ❒ Observability, Logging, Tracing<br>
 - Capabilities: Observability, Logging, Tracing, Cost Control, Failure Detection, Spans, Caching, Agent Testings<br>
 - Tools: LangSmith, AgentOps, LangWatch, LangFuse, LangTrace<br>
 - Tracing Agents: Function-level tracebacks, memory graphing, and execution flow visualization<br>
-<br>
 
 ### ❒ Deployment, Infra & MLOps<br>
 - Containerization & Orchestration : Docker, Kubernetes, Helm, Kustomize<br>
@@ -260,7 +223,6 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 - CI/CD: GitHub Actions, GitLab CI, Jenkins<br>
 - Cloud Platforms: AWS (ECS, EKS, SageMaker), Azure (Container Apps, ML Studio)<br>
 - Proxy & Networking: Reverse Proxy Configs, NGINX, Cloudflare Tunnels, Custom Proxy Managers<br>
-<br>
 
 ### ❒ Security & Governance<br>
 - Prompt Protection: Guardrails AI, Rebuff<br>
@@ -268,7 +230,6 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 - Compliance Alignment: SOC 2, HIPAA, GDPR, ISO 27001<br>
 - Secrets & Vaults: HashiCorp Vault, AWS Secrets Manager<br>
 - Data Handling: PII scrubbing, prompt validation, payload encryption<br>
-<br>
 
 ### ❒ Miscellaneous<br>
 - Prog. Languages: Python, Node.js, Bash, TypeScript<br>
