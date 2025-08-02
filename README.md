@@ -173,72 +173,72 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 ## 💻 Technologies Excellences
 
 ### ❒ Large Language Models (LLMs) & Hosting<br>
-- Capabilities: Streaming, Using Tools, Image/Video/Voice, Optimization, Prompts, Extended Thinking, Guardrails<br>
-- Models: OpenAI, Anthropic Claude, Cohere, Llama<br>
-- Quantized Models: GGUF, GPTQ, AWQ<br>
-- Model Serving/Deployments: Hugging Face, Ollama, LM Studio, LLMLite, Text Generation WebUI, llms.txt<br>
+- **Capabilities:** Streaming, Using Tools, Image/Video/Voice, Optimization, Prompts, Extended Thinking, Guardrails<br>
+- **Models:** OpenAI, Anthropic Claude, Cohere, Llama<br>
+- **Quantized Models:** GGUF, GPTQ, AWQ<br>
+- **Model Serving/Deployments:** Hugging Face, Ollama, LM Studio, LLMLite, Text Generation WebUI, llms.txt<br>
 
 ### ❒ Agent Frameworks & Orchestration<br>
-- Capabilities: Prompts, Chaining, Structured Output, Tools, Runnnables, Vector Stores, Streaming, Retrievers, Graphs/Nodes/Edges, Scalability<br>
-- Frameworks: LangChain, LangGraph, LangFlow, CrewAI, OpenAI Agents SDK<br>
-- Orchestration Patterns: Planner-Executor, Chain of Thought, ReAct, Reflection<br>
-- Memory & State: LangMem, Redis, Chroma<br>
-▪ MCP (Model Context Protocol) – Model coordination and intelligent routing<br>
-▪ Agentic RAG – Retrieval agents with goal-aware data enrichment<br>
+- **Capabilities:** Prompts, Chaining, Structured Output, Tools, Runnnables, Vector Stores, Streaming, Retrievers, Graphs/Nodes/Edges, Scalability<br>
+- **Frameworks:** LangChain, LangGraph, LangFlow, CrewAI, OpenAI Agents SDK<br>
+- **Orchestration Patterns:** Planner-Executor, Chain of Thought, ReAct, Reflection<br>
+- **Memory & State:** LangMem, Redis, Chroma<br>
+- **MCP (Model Context Protocol):** Model coordination and intelligent routing<br>
+- **Agentic RAG:** Retrieval agents with goal-aware data enrichment<br>
 
 ### ❒ Vector Search & Retrieval Infrastructure<br>
-- Capabilities: Searching, Indexing, Filtering, Reranking, Quantization<br>
-- Databases: Pinecone, Weaviate, Qdrant, ChromaDB<br>
-- Embedding Models: OpenAI, Hugging Face Transformers, Cohere<br>
-- Indexing & Retrieval Enhancements: Chunking, Reranking, Quantization, Hybrid Search<br>
+- **Capabilities:** Searching, Indexing, Filtering, Reranking, Quantization<br>
+- **Databases:** Pinecone, Weaviate, Qdrant, ChromaDB<br>
+- **Embedding Models:** OpenAI, Hugging Face Transformers, Cohere<br>
+- **Indexing & Retrieval Enhancements:** Chunking, Reranking, Quantization, Hybrid Search<br>
 
 ### ❒ Hugging Face Ecosystem<br>
-- Capabilities: Transformers, Diffusers, Datasets, Tokenizers, timm, Hub, Inference<br>
-- Model Hub: Hosting, loading, fine-tuning transformer models<br>
-- Transformers: Custom pipelines for NLP, CV, and multi-modal tasks<br>
-- Model Deployment: Inference Endpoints, Spaces, Accelerated Transformers<br>
+- **Capabilities:** Transformers, Diffusers, Datasets, Tokenizers, timm, Hub, Inference<br>
+- **Model Hub:** Hosting, loading, fine-tuning transformer models<br>
+- **Transformers:** Custom pipelines for NLP, CV, and multi-modal tasks<br>
+- **Model Deployment:** Inference Endpoints, Spaces, Accelerated Transformers<br>
 
 ### ❒ AI Workflow Automation<br>
-- Capabilities: Prompt Chaining, Parallelization, Orchestration, Routing, Custom Functions <br>
-- Integration & Triggers: Gmail API, Slack API, Twilio, Calendly, HubSpot, Zapier, Webhooks, REST APIs<br>
-- Automation Platforms: n8n, Reflection AI, custom LLM-integrated flows<br>
-- Voice & Dialog Systems: Voiceflow.ai, Vapi for multimodal interaction<br>
-- End-to-End Workflows: LLM → Tool → Agent → API → Slack/Email → Evaluation<br>
+- **Capabilities:** Prompt Chaining, Parallelization, Orchestration, Routing, Custom Functions <br>
+- **Integration & Triggers:** Gmail API, Slack API, Twilio, Calendly, HubSpot, Zapier, Webhooks, REST APIs<br>
+- **Automation Platforms:** n8n, Reflection AI, custom LLM-integrated flows<br>
+- **Voice & Dialog Systems:** Voiceflow.ai, Vapi for multimodal interaction<br>
+- **End-to-End Workflows:** LLM → Tool → Agent → API → Slack/Email → Evaluation<br>
 
 ### ❒ Computer Vision<br>
-- Capabilities: OCR & Text Detection, Object Detection & Image Segmentation, Handwriting recognition, table extraction, Invoice parsing, Image Analysis & Metadata Extraction<br>
-- Tools: Google Vision API, AWS Textract, Tesseract OCR, EasyOCR, OpenAPI, Claude API<br>
-- Computer Vision & Agent Workflows<br>
+- **Capabilities:** OCR & Text Detection, Object Detection & Image Segmentation, Handwriting recognition, table extraction, Invoice parsing, Image Analysis & Metadata Extraction<br>
+- **Tools:** Google Vision API, AWS Textract, Tesseract OCR, EasyOCR, OpenAPI, Claude API<br>
+- **Computer Vision & Agent Workflows:** <br>
    - Image-to-insight pipelines using LangChain or CrewAI for OCR → Text → RAG<br>
    - Playwright-driven browser agents with CV to extract info from images, charts, dashboards<br>
 
 ### ❒ Observability, Logging, Tracing<br>
-- Capabilities: Observability, Logging, Tracing, Cost Control, Failure Detection, Spans, Caching, Agent Testings<br>
-- Tools: LangSmith, AgentOps, LangWatch, LangFuse, LangTrace<br>
-- Tracing Agents: Function-level tracebacks, memory graphing, and execution flow visualization<br>
+- **Capabilities:** Observability, Logging, Tracing, Cost Control, Failure Detection, Spans, Caching, Agent Testings<br>
+- **Tools:** LangSmith, AgentOps, LangWatch, LangFuse, LangTrace<br>
+- **Tracing Agents:** Function-level tracebacks, memory graphing, and execution flow visualization<br>
 
 ### ❒ Deployment, Infra & MLOps<br>
-- Containerization & Orchestration : Docker, Kubernetes, Helm, Kustomize<br>
-- Model Serving: TorchServe, Triton Inference Server, TGI, vLLM<br>
-- CI/CD: GitHub Actions, GitLab CI, Jenkins<br>
-- Cloud Platforms: AWS (ECS, EKS, SageMaker), Azure (Container Apps, ML Studio)<br>
-- Proxy & Networking: Reverse Proxy Configs, NGINX, Cloudflare Tunnels, Custom Proxy Managers<br>
+- **Containerization & Orchestration :** Docker, Kubernetes, Helm, Kustomize<br>
+- **Model Serving:** TorchServe, Triton Inference Server, TGI, vLLM<br>
+- **CI/CD:** GitHub Actions, GitLab CI, Jenkins<br>
+- **Cloud Platforms:** AWS (ECS, EKS, SageMaker), Azure (Container Apps, ML Studio)<br>
+- **Proxy & Networking:** Reverse Proxy Configs, NGINX, Cloudflare Tunnels, Custom Proxy Managers<br>
 
 ### ❒ Security & Governance<br>
-- Prompt Protection: Guardrails AI, Rebuff<br>
-- Access Control: OAuth2, RBAC, API Gateways<br>
-- Compliance Alignment: SOC 2, HIPAA, GDPR, ISO 27001<br>
-- Secrets & Vaults: HashiCorp Vault, AWS Secrets Manager<br>
-- Data Handling: PII scrubbing, prompt validation, payload encryption<br>
+- **Prompt Protection:** Guardrails AI, Rebuff<br>
+- **Access Control:** OAuth2, RBAC, API Gateways<br>
+- **Compliance Alignment:** SOC 2, HIPAA, GDPR, ISO 27001<br>
+- **Secrets & Vaults:** HashiCorp Vault, AWS Secrets Manager<br>
+- **Data Handling:** PII scrubbing, prompt validation, payload encryption<br>
 
 ### ❒ Miscellaneous<br>
-- Prog. Languages: Python, Node.js, Bash, TypeScript<br>
-- Python Packages/Frameworks: FastAPI, Numpy, Pandas, Matplotlib<br>
-- Coding Agents/IDE: Claude Code AI, Cursor AI, Windsurf, VS Code<br>
-- Notebooks: JupyterLab, Google Colab<br>
-- Rapid Prototyping: Streamlit, Gradio<br>
-- Browser Emulation: Playwright for web automation and agent-driven browsing<br>
-- Full-stack Agent Portals: LLM backends with FastAPI + Streamlit frontend integrations<br>
+- **Prog. Languages:** Python, Node.js, Bash, TypeScript<br>
+- **Python Packages/Frameworks:** FastAPI, Numpy, Pandas, Matplotlib<br>
+- **Coding Agents/IDE:** Claude Code AI, Cursor AI, Windsurf, VS Code<br>
+- **Notebooks:** JupyterLab, Google Colab<br>
+- **Rapid Prototyping:** Streamlit, Gradio<br>
+- **Browser Emulation:** Playwright for web automation and agent-driven browsing<br>
+- **Full-stack Agent Portals:** LLM backends with FastAPI + Streamlit frontend integrations<br>
 - Autonomous web-browsing and structured web data extraction using Firecrawl<br>
 - Browser emulation and UI automation for autonomous agents using PlayWright<br>
 <br>
