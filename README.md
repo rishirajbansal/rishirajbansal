@@ -10,17 +10,15 @@ AI Engineer specialized in building production-ready multi-agent systems, intell
 ♦ Saved $12K/month by replacing OpenAI APIs with quantized local models<br>
 ♦ Achieved 4x faster processing in onboarding workflows with AI orchestration<br>
 ♦ Prog Lang: ▪ Java ▪ Node.js/TypeScript ▪ Python ▪ Bash<br>
-<br>
 
 From LLM-powered AI Agents to ML infrastructure orchestration, specialize in solving complex challenges with a focus on reliability, cost-efficiency, and governance.<br>
-<br>
+
 
 🔭 Find me on:<br>
 - 🌐 https://www.linkedin.com/in/rishirajbansal <br>
 - 🌐 https://www.rishirajbansal.com<br>
 - 📬 [rishi@rishirajbansal.com](mailto:rishi@rishirajbansal.com) *or* [rishiraj.specialist@gmail.com](mailto:rishiraj.specialist@gmail.com)  
 
-<br>
 
 ## 🏭 Industries Served
 
@@ -42,7 +40,6 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 - Voice-interactive AI using Vapi, and Voiceflow<br>
 - Intelligent RAG-based knowledge assistants<br>
 - Workflow automation for sales, HR, and ops using agents<br>
-<br>
 
 ## 💡 Expertise
 
