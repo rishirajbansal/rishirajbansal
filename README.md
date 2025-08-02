@@ -64,8 +64,7 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 
 ## 💼 Experience
 
-#### ➥ AI Agents Design & Development
-
+### ➥ AI Agents Design & Development
 - Designing intelligent autonomous agents with role-specific capabilities, enabling task execution through reasoning, memory, planning, and tool use.<br>
 - Implementing reactive, proactive, learning and goal-driven agent behaviors using LLM backbones and structured control mechanisms.<br>
 - Integrate APIs, knowledge bases, and external tools to empower agents with real-world utility and multi-functionality.<br>
@@ -157,14 +156,12 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 - Capable of evaluating models based on architecture, context window, hardware requirements, and downstream performance.<br>
 - Stay current on quantization advances, tokenizer optimizations, and architecture benchmarking (MMLU, MT-Bench, etc.).<br>
 
-<br>
 
 ## Awards & Achievements
 
 - 'Core Value' award from Sapient Corporation (US) <br>
 
 - ‘Technocrat’ award from Royal Bank of Scotland (UK)<br>
-<br>
 
 
 ## 💻 Technologies Excellences
@@ -238,7 +235,6 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 - **Full-stack Agent Portals:** LLM backends with FastAPI + Streamlit frontend integrations<br>
 - Autonomous web-browsing and structured web data extraction using Firecrawl<br>
 - Browser emulation and UI automation for autonomous agents using PlayWright<br>
-<br>
 
 
 ## 📈 Business Outcomes I Deliver<br>
