@@ -174,7 +174,7 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 
 ### ❒ Agent Frameworks & Orchestration<br>
 - **Capabilities:** Prompts, Chaining, Structured Output, Tools, Runnnables, Vector Stores, Streaming, Retrievers, Graphs/Nodes/Edges, Scalability<br>
-- **Frameworks:** LangChain, LangGraph, LangFlow, CrewAI, OpenAI Agents SDK<br>
+- **Frameworks:** LangChain, LangGraph, LangFlow, CrewAI, AutoGen, OpenAI Agents SDK<br>
 - **Orchestration Patterns:** Planner-Executor, Chain of Thought, ReAct, Reflection<br>
 - **Memory & State:** LangMem, Redis, Chroma<br>
 - **MCP (Model Context Protocol):** Model coordination and intelligent routing<br>
@@ -230,7 +230,7 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 - **Python Packages/Frameworks:** FastAPI, Numpy, Pandas, Matplotlib<br>
 - **Coding Agents/IDE:** Claude Code AI, Cursor AI, Windsurf, VS Code<br>
 - **Notebooks:** JupyterLab, Google Colab<br>
-- **Rapid Prototyping:** Streamlit, Gradio<br>
+- **AI Interface Tools:** Streamlit, Gradio<br>
 - **Browser Emulation:** Playwright for web automation and agent-driven browsing<br>
 - **Full-stack Agent Portals:** LLM backends with FastAPI + Streamlit frontend integrations<br>
 - Autonomous web-browsing and structured web data extraction using Firecrawl<br>
