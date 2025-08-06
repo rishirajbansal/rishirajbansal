@@ -195,8 +195,9 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 ### ❒ AI Workflow Automation<br>
 - **Capabilities:** Prompt Chaining, Parallelization, Orchestration, Routing, Custom Functions <br>
 - **Integration & Triggers:** Gmail API, Slack API, Twilio, Calendly, HubSpot, Zapier, Webhooks, REST APIs<br>
-- **Automation Platforms:** n8n, Reflection AI, custom LLM-integrated flows<br>
+- **Automation Platforms:** n8n, Relevance AI, custom LLM-integrated flows<br>
 - **Voice & Dialog Systems:** Voiceflow.ai, Vapi for multimodal interaction<br>
+- **CRM/Data Management:** Airtable, Notion<br>
 - **End-to-End Workflows:** LLM → Tool → Agent → API → Slack/Email → Evaluation<br>
 
 ### ❒ Computer Vision<br>
