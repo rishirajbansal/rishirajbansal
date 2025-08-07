@@ -174,7 +174,8 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 
 ### ❒ Agent Frameworks & Orchestration<br>
 - **Capabilities:** Prompts, Chaining, Structured Output, Tools, Runnnables, Vector Stores, Streaming, Retrievers, Graphs/Nodes/Edges, Scalability<br>
-- **Frameworks:** LangChain, LangGraph, LangFlow, CrewAI, AutoGen, OpenAI Agents SDK<br>
+- **Frameworks:** LangChain, LangGraph, CrewAI, AutoGen, OpenAI Agents SDK<br>
+- **Low Code Platform:** LangFlow, Relevance AI<br>
 - **Orchestration Patterns:** Planner-Executor, Chain of Thought, ReAct, Reflection<br>
 - **Memory & State:** LangMem, Redis, Chroma<br>
 - **MCP (Model Context Protocol):** Model coordination and intelligent routing<br>
@@ -195,7 +196,7 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 ### ❒ AI Workflow Automation<br>
 - **Capabilities:** Prompt Chaining, Parallelization, Orchestration, Routing, Custom Functions <br>
 - **Integration & Triggers:** Gmail API, Slack API, Twilio, Calendly, HubSpot, Zapier, Webhooks, REST APIs<br>
-- **Automation Platforms:** n8n, Relevance AI, custom LLM-integrated flows<br>
+- **Automation Platforms:** n8n, Relevance AI, LangFLow, custom LLM-integrated flows<br>
 - **Voice & Dialog Systems:** Voiceflow.ai, Vapi for multimodal interaction<br>
 - **CRM/Data Management:** Airtable, Notion<br>
 - **End-to-End Workflows:** LLM → Tool → Agent → API → Slack/Email → Evaluation<br>
