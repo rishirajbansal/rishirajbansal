@@ -20,6 +20,16 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 - 📬 [rishi@rishirajbansal.com](mailto:rishi@rishirajbansal.com) *or* [rishiraj.specialist@gmail.com](mailto:rishiraj.specialist@gmail.com)  
 
 
+## ✨ Work Highlights
+
+♦ Delivered multi-agent AI orchestration that reduced onboarding workflow processing time by 4x, enabling faster customer activation and increased revenue velocity.<br>
+♦ Automated 70% of repetitive business workflows in sales, HR, and operations using AI agents, workflow orchestration, and vector-based RAG systems.<br>
+♦ 60% Faster Response Times — Vector search with Pinecone reduced lookup latency significantly.<br>
+♦ Improved Engagement — Intent-aware prompts resulted in 35% higher user satisfaction scores.<br>
+♦ Delivered a scalable platform that grew from 500 to 5,000+ AI-powered pages<br>
+♦ 80% reduction in manual outreach labor, freeing up teams to focus on qualified leads<br>
+♦ Designed and implemented secure, scalable cloud infrastructure across AWS, Azure, and GCP for diverse industries including Healthcare, Finance, EdTech, and SaaS — enabling uptime >99.99%, cloud cost savings of 30–60%, and compliance with SOC 2 / HIPAA / PCI-DSS.<br>
+
 ## 🏭 Industries Served
 
 ♦ HealthCare (https://www.engagedmd.com, https://www.visibleep.com)<br>
@@ -157,7 +167,7 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 - Stay current on quantization advances, tokenizer optimizations, and architecture benchmarking (MMLU, MT-Bench, etc.).<br>
 
 
-## Awards & Achievements
+## 🏆 Awards & Achievements
 
 - 'Core Value' award from Sapient Corporation (US) <br>
 
