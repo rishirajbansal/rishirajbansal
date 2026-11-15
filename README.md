@@ -1,41 +1,272 @@
+<h1 align="left">Rishi Raj Bansal</h1>
+
+<h3 align="left">AI Infrastructure Engineer &nbsp;|&nbsp; LLMs, Agents, RAG & MCP &nbsp;|&nbsp; SaaS DevOps</h3>
+
+<p align="left">
+Deploying and running LLMs, AI agents, RAG systems and MCP servers in production: secure, observable and cost-controlled on AWS, Azure and Kubernetes. The same production discipline, applied to SaaS platforms.
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rishirajbansal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.rishirajbansal.com"><img src="https://img.shields.io/badge/Website-rishirajbansal.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="mailto:rishi@rishirajbansal.com"><img src="https://img.shields.io/badge/Email-rishi@rishirajbansal.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Software%20Engineering-20%2B%20years-1f6feb?style=flat-square" alt="20+ years software engineering">
+  <img src="https://img.shields.io/badge/DevOps%20%26%20Cloud-12%2B%20years-1f6feb?style=flat-square" alt="12+ years DevOps and cloud">
+  <img src="https://img.shields.io/badge/AI%20Infrastructure-3%2B%20years-1f6feb?style=flat-square" alt="3+ years AI infrastructure">
+  <img src="https://img.shields.io/badge/Remote-UK%20%7C%20EU%20%7C%20US%20overlap-2ea043?style=flat-square" alt="Remote with UK, EU and US overlap">
+</p>
+
+---
+
 ## 🙏 About Myself
 
 AI Engineer specialized in building production-ready multi-agent systems, intelligent workflows, and Gen AI integrations. I help startups and enterprises automate decision-making, reduce costs, and launch faster using cutting-edge LLM tooling and agent frameworks.<br>
 
-♦ 20+ years of total experience in Software engineering and Systems Architecture. Providing software services & solutions to various industry verticals in most reliable & consistent manner, assisting the industries to make their businesses more successful with optimum costing structure and rapid ROIs execution plans. <br>
-♦ 3+ years of Experience in AI Engineering, Agentic AI, Workflow automation, Machine Learning, RAG, LLMs<br>
-♦ 12+ years of Experience in DevOps, DevSecOps, Cloud Engineering/Architect<br>
-♦ Proven Long term engagements with clients, consistent and reliable performance<br>
-♦ Prog Lang: ▪ Java ▪ Node.js/TypeScript ▪ Python ▪ Bash<br>
-♦ Saved $12K/month by replacing OpenAI APIs with quantized local models<br>
-♦ Achieved 4x faster processing in onboarding workflows with AI orchestration<br>
-♦ Prog Lang: ▪ Java ▪ Node.js/TypeScript ▪ Python ▪ Bash<br>
+♦ **3+ years** deploying LLM, RAG and agent workloads in production <br>
+♦ **12+ years** in DevOps, DevSecOps and cloud architecture <br>
+♦ **20+ years** of total experience in Software engineering and Systems Architecture. Providing software services & solutions to various industry verticals in most reliable & consistent manner, assisting the industries to make their businesses more successful with optimum costing structure and rapid ROIs execution plans. <br>
+♦ Built and ran a **HIPAA- and PCI DSS-compliant** AWS platform from scratch to go-live <br>
+♦ Long-term, repeat engagements with clients in the **US, UK and EU** <br>
+♦ **Languages:** Python ▪ Node.js / TypeScript ▪ Java ▪ Bash <br>
 
 From LLM-powered AI Agents to ML infrastructure orchestration, specialize in solving complex challenges with a focus on reliability, cost-efficiency, and governance.<br>
 
-
+<!--
 🔭 Find me on:<br>
 - 🌐 https://www.linkedin.com/in/rishirajbansal <br>
 - 🌐 https://www.rishirajbansal.com<br>
-- 📬 [rishi@rishirajbansal.com](mailto:rishi@rishirajbansal.com) *or* [rishiraj.specialist@gmail.com](mailto:rishiraj.specialist@gmail.com)  
+- 📬 [rishi@rishirajbansal.com](mailto:rishi@rishirajbansal.com) *or* [rishiraj.specialist@gmail.com](mailto:rishiraj.specialist@gmail.com) 
+-->
 
 
 ## ✨ Work Highlights
 
-♦ Delivered multi-agent AI orchestration that reduced onboarding workflow processing time by 4x, enabling faster customer activation and increased revenue velocity.<br>
-♦ Automated 70% of repetitive business workflows in sales, HR, and operations using AI agents, workflow orchestration, and vector-based RAG systems.<br>
-♦ 60% Faster Response Times — Vector search with Pinecone reduced lookup latency significantly.<br>
-♦ Improved Engagement — Intent-aware prompts resulted in 35% higher user satisfaction scores.<br>
-♦ Delivered a scalable platform that grew from 500 to 5,000+ AI-powered pages<br>
-♦ 80% reduction in manual outreach labor, freeing up teams to focus on qualified leads<br>
-♦ Designed and implemented secure, scalable cloud infrastructure across AWS, Azure, and GCP for diverse industries including Healthcare, Finance, EdTech, and SaaS — enabling uptime >99.99%, cloud cost savings of 30–60%, and compliance with SOC 2 / HIPAA / PCI-DSS.<br>
+| Outcome | What it took |
+| --- | --- |
+| **$12K/month saved** on LLM API costs | Quantized open-source models self-hosted on GPU instances in a private AWS VPC, with LiteLLM routing only complex, non-sensitive requests to cloud APIs |
+| **40% fewer hallucinations**, 60% faster responses, 35% higher customer satisfaction | Production RAG with incremental ingestion, multi-pass reranking, grounding checks, tracing and evaluation |
+| **4x faster onboarding**, 70% of repetitive workflows automated | HIPAA-aware multi-agent automation with encryption, role-based access, audit logging and human review |
+| **8-10 microservices**, zero manual release steps | GroundControl: an infrastructure-as-code platform deploying across separate Dev, QA, UAT and Prod AWS accounts |
+| **99.99%+ uptime** and **30-60% cloud cost savings** | Cloud infrastructure on AWS and Azure for healthcare, finance, EdTech and SaaS clients |
+
+
+## 🧭 What I Do
+
+### 🤖 AI Infrastructure: LLMs, Agents, RAG & MCP
+
+- **LLM serving and hosting:** self-hosted open-source models on GPU (Ollama, vLLM, TGI) with quantized formats (GGUF, GPTQ, AWQ), alongside managed APIs (OpenAI, Anthropic Claude, Cohere)
+- **LLM gateway and cost control:** LiteLLM routing, fallbacks, retries, per-tenant budgets, caching and cost-per-request tracking
+- **Agent runtimes:** production deployment of LangGraph, CrewAI, AutoGen and OpenAI Agents SDK agents, with state, retries, timeouts, human approval and audit trails
+- **MCP servers:** deploying and securing Model Context Protocol servers that give agents controlled access to internal tools and data
+- **RAG infrastructure:** ingestion pipelines, vector databases, hybrid search, reranking, index versioning and safe rebuilds
+- **LLM observability and evaluation:** tracing, quality scoring, evaluation gates in CI/CD, and cost and latency dashboards
+- **AI security:** private networking, PII redaction, guardrails, prompt-injection defences and least-privilege tool access
+
+### ⚙️ SaaS DevOps
+
+- **Cloud foundations:** multi-account AWS environments, networking, IAM, encryption and guardrails; Azure
+- **Infrastructure as code:** Terraform, AWS CDK, CloudFormation and Pulumi
+- **Containers and orchestration:** Docker, ECS Fargate, Kubernetes (EKS and self-managed), Helm
+- **CI/CD and release engineering:** GitHub Actions, GitLab CI, Bitbucket Pipelines, Jenkins, AWS CodeBuild and CodePipeline; blue/green and canary releases with tested rollbacks
+- **Observability and reliability:** Datadog, Prometheus, Grafana, CloudWatch, X-Ray; alerting, runbooks and backups
+- **Security and compliance:** HIPAA and PCI DSS implementation; secrets management, WAF, audit logging and access control
+
+
+## 🏗️ Reference Architecture: Production AI Platform
+
+How I typically structure an AI platform so it stays secure, observable and affordable as usage grows:
+
+```mermaid
+flowchart LR
+    U["Users and apps"] --> GW["API gateway<br/>auth, rate limits"]
+    GW --> AG["Agent runtime<br/>LangGraph / CrewAI"]
+    AG --> MCP["MCP servers<br/>scoped tool access"]
+    AG --> RAG["RAG service<br/>hybrid search, rerank"]
+    RAG --> VDB[("Vector DB")]
+    AG --> LGW["LLM gateway<br/>LiteLLM: routing, budgets, cache"]
+    LGW --> SH["Self-hosted models<br/>Ollama / vLLM on GPU"]
+    LGW --> API["Managed models<br/>OpenAI / Claude"]
+
+    subgraph PLATFORM["Platform layer"]
+        OBS["Tracing and evals<br/>Langfuse / LangSmith"]
+        CICD["CI/CD with eval gates"]
+        SEC["IAM, KMS, secrets, audit logs"]
+    end
+```
+
+**Design principles**
+
+1. **One gateway for every model call:** routing, fallbacks, budgets and cost tracking live in one place, so changing a model is a config change, not a code change.
+2. **Private by default:** sensitive workloads stay inside the VPC; external model calls are allow-listed and redacted.
+3. **Agents get least privilege:** every tool or MCP server has its own scoped identity, validated inputs and an audit trail, with human approval for risky actions.
+4. **Quality is measured, not assumed:** traces on every request, evaluation datasets, and CI gates that block regressions.
+5. **Everything is code:** infrastructure, prompts, routing rules, dashboards and alerts are versioned and reviewed.
+
+
+## 💼 Featured Work
+
+### 🏥 EngagedMD: AWS platform built from scratch to go-live
+*Healthcare SaaS used by 160+ fertility clinics · DevOps Engineer & Cloud Architect · 2020-2026*
+
+- Architected and built the complete AWS infrastructure for a **HIPAA- and PCI DSS-compliant** platform.
+- Built **GroundControl**, the infrastructure-as-code platform (Terraform, AWS CDK, CloudFormation) that deploys and manages every EngagedMD application, with no manual release or maintenance steps.
+- Ran release management for **8-10 microservices on ECS Fargate** across separate Dev, QA, UAT and Prod AWS accounts.
+- Implemented **blue/green and canary deployments**, rollback plans for infrastructure, application and database changes, and automated database, S3 and EFS backups before every production release.
+- Monitoring and alerting with Datadog, X-Ray, Grafana and CloudWatch; low-level infrastructure designs and request-flow diagrams.
+- **Stack:** ECS Fargate, ECR, App Mesh, Cloud Map, RDS PostgreSQL, RDS Proxy, MemoryDB/ElastiCache, SQS, SNS, EventBridge, Lambda, API Gateway, ALB, CloudFront, WAF, Secrets Manager; Node.js/TypeScript (NestJS, Next.js)
+
+```mermaid
+flowchart LR
+    DEV["Git push"] --> CI["CI pipeline<br/>build, test, scan"]
+    CI --> IAC["GroundControl<br/>infrastructure as code"]
+    IAC --> D["Dev account"]
+    IAC --> Q["QA account"]
+    IAC --> UAT["UAT account"]
+    IAC --> P["Prod account<br/>blue/green and canary"]
+    P --> BK["Pre-release backups<br/>DB, S3, EFS"]
+```
+
+### 🔒 Private LLM platform: $12K/month saved
+*Finance company, 200+ employees*
+
+- Problem: LLM API bills climbing every month, and sensitive data leaving the network.
+- Built: quantized open-source models served by Ollama on GPU instances in an Auto Scaling group inside a private AWS VPC; a LiteLLM router on Fargate sends only complex, non-sensitive requests to cloud APIs; IAM least privilege, Secrets Manager, CloudWatch alarms, CloudTrail audit logs, and per-request cost tracking with Langfuse.
+- Result: **$12K/month saved**, and sensitive data stays in-house.
+
+### 📚 Production RAG: 40% fewer hallucinations
+*SaaS company, 400+ employees*
+
+- Problem: a support assistant that gave unreliable answers once real users depended on it.
+- Built: an incremental ingestion pipeline that re-embeds only changed documents into Pinecone, an agentic retrieval loop with multi-pass reranking and grounding checks, and LangSmith tracing with evaluation sets run before every release.
+- Result: **60% faster responses, 40% fewer hallucinations, 35% higher customer satisfaction.**
+
+### 🩺 HIPAA-aware AI agents: 4x faster onboarding
+*Healthcare company, 300+ employees*
+
+- Problem: onboarding and operations work that needed automating without putting patient data at risk.
+- Built: n8n event pipelines feeding a LangGraph supervisor that routes tasks to CrewAI agents, a human review queue for low-confidence cases, and PHI protection with encryption, scoped service accounts, masking in logs and full audit logging.
+- Result: **onboarding 4x faster, 70% of repetitive workflows automated.**
+
+
+## 🛠️ Expertise in Depth
+
+<details>
+<summary><b>LLM serving and model hosting</b></summary>
+
+- Self-hosting open-source models for private or regulated environments with Ollama, vLLM, TGI and LM Studio
+- Quantization with GGUF, GPTQ and AWQ to fit models onto cost-effective hardware
+- GPU instance selection, autoscaling, scale-to-zero schedules and cold-start handling
+- Choosing between managed APIs and self-hosting based on volume, latency, data rules and total cost
+- Evaluating models on architecture, context window, hardware requirements and task performance
+</details>
+
+<details>
+<summary><b>LLM gateway, routing and cost control</b></summary>
+
+- LiteLLM as a single gateway for all model calls: model aliases, fallbacks, retries and timeouts
+- Routing by task complexity so small models handle simple work and large models handle the rest
+- Response and prompt caching, per-tenant virtual keys, budgets and rate limits
+- Cost attribution per request, feature and tenant, with alerts on unusual spend
+</details>
+
+<details>
+<summary><b>AI agents in production</b></summary>
+
+- Deploying agents built with LangGraph, CrewAI, AutoGen and the OpenAI Agents SDK as containerized services
+- Agent state and memory (Redis, LangMem, Chroma), retries, timeouts and recovery for long-running tasks
+- Multi-agent orchestration patterns: supervisor/router, sequential, parallel, planner-executor, ReAct and reflection
+- Human-in-the-loop approval for risky actions, with a full audit trail of every agent decision and tool call
+- Low-code agent platforms where they fit: LangFlow, Relevance AI, n8n
+</details>
+
+<details>
+<summary><b>MCP (Model Context Protocol) servers</b></summary>
+
+- Deploying MCP servers that give agents and AI applications structured access to internal tools, APIs and data
+- Authentication and authorization for MCP endpoints, with least-privilege scopes per tool
+- Input validation, rate limiting and audit logging on every tool call
+- Containerized MCP deployments behind a gateway, monitored like any other production service
+</details>
+
+<details>
+<summary><b>RAG infrastructure</b></summary>
+
+- Ingestion pipelines: parsing, chunking, embedding (OpenAI, Cohere, Hugging Face) and incremental re-indexing
+- Vector databases: Pinecone, Weaviate, Qdrant and ChromaDB, with metadata filtering and tenant separation
+- Hybrid search (semantic + keyword), multi-pass reranking and grounded answers with citations
+- Agentic retrieval loops that refine the query when evidence is weak
+- Versioned indexes with blue/green rebuilds and instant rollback
+- Document pipelines with OCR (AWS Textract, Google Vision, Tesseract) feeding retrieval
+</details>
+
+<details>
+<summary><b>LLM observability and evaluation</b></summary>
+
+- Tracing every request across prompts, retrieval, model calls and tool calls with LangSmith, Langfuse, AgentOps, LangWatch and LangTrace
+- Token, latency and cost dashboards by model, prompt version and tenant
+- Evaluation datasets built from real traffic, LLM-as-judge scoring, and online sampling of production quality
+- Evaluation gates in CI/CD that block prompt or model changes when quality drops
+- Alerting on hallucination rates, performance regressions and degraded response quality
+</details>
+
+<details>
+<summary><b>AI security and governance</b></summary>
+
+- Private networking for model traffic, with VPC endpoints and allow-listed egress
+- PII scrubbing in prompts, logs and traces; payload encryption
+- Prompt-injection defences and output guardrails (Guardrails AI, Rebuff)
+- Secrets management with AWS Secrets Manager and HashiCorp Vault; OAuth2, RBAC and API gateways
+- Threat modelling and controls aligned with HIPAA, PCI DSS, SOC 2 and GDPR requirements
+</details>
+
+<details>
+<summary><b>Cloud infrastructure and IaC</b></summary>
+
+- Multi-account AWS environments (Dev, QA, UAT, Prod) with separate accounts per environment
+- AWS: ECS Fargate, EKS, EC2, Auto Scaling, ALB, API Gateway, Lambda, RDS, RDS Proxy, ElastiCache/MemoryDB, S3, EFS, SQS, SNS, EventBridge, CloudFront, Route 53, WAF, Secrets Manager, IAM, KMS, CloudWatch, X-Ray, CloudTrail, SageMaker
+- Azure: Container Apps and Azure ML
+- Infrastructure as code with Terraform, AWS CDK, CloudFormation and Pulumi
+- Identity integration: AWS Cognito, Okta, SAML SSO
+</details>
+
+<details>
+<summary><b>Containers, CI/CD and release engineering</b></summary>
+
+- Docker, Kubernetes (EKS and self-managed), Helm and Kustomize
+- CI/CD with GitHub Actions, GitLab CI, Bitbucket Pipelines, Jenkins, AWS CodeBuild, CodePipeline and CodeArtifact
+- Blue/green and canary deployments, with rollback plans for infrastructure, application and database changes
+- DevSecOps gates: secret scanning, infrastructure and container scanning, misconfiguration checks
+- Fully automated, OS-agnostic deployments with success and failure notifications
+</details>
+
+<details>
+<summary><b>Observability and reliability</b></summary>
+
+- Datadog, Prometheus (kube-prometheus-stack), Grafana, CloudWatch and AWS X-Ray
+- Service health checks, alerting on symptoms that matter, and runbooks for common incidents
+- Automated, versioned backups before production deployments and tested restores
+- NGINX, reverse proxies and Cloudflare Tunnels
+</details>
+
+
+## 🤝 How I Work
+
+- **Production first:** every system ships with monitoring, alerting, rollback and documentation, not just a working demo.
+- **Security from day one:** least privilege, encryption, secrets management and audit trails are part of the design, not added later.
+- **Everything as code:** environments can be rebuilt, reviewed and rolled back.
+- **Clear communication:** trade-offs explained in plain language to engineers and leadership alike.
+- **Handover-ready:** runbooks and documentation so your team can run the system without me.
+
 
 ## 🏭 Industries Served
 
-♦ HealthCare (https://www.engagedmd.com, https://www.visibleep.com)<br>
-♦ FinTech (RBS, Western Union Money Transfer, NCR/Diebold ATMs)<br>
-♦ ITTech (https://www.fitrix.com)<br>
-♦ Manufacturing/Retail (https://www.ghirardelli.com, https://www.e-supplylink.com)<br>
+♦ **Healthcare:** [EngagedMD](https://www.engagedmd.com), [VisibleEP](https://www.visibleep.com)<br>
+♦ **FinTech and banking:** Royal Bank of Scotland, Western Union Money Transfer, NCR/Diebold ATMs<br>
+♦ **IT and SaaS:** [Fitrix](https://www.fitrix.com)<br>
+♦ **Manufacturing and retail:** [Ghirardelli](https://www.ghirardelli.com), [e-SupplyLink](https://www.e-supplylink.com)<br>
 <br>
 
 ## 📝 Governance & Compliances
@@ -43,240 +274,86 @@ From LLM-powered AI Agents to ML infrastructure orchestration, specialize in sol
 ▪ HIPAA ▪ NIST ▪ SOC 1/2/3 ▪ PCI-DSS ▪ GDPR ▪ CCPA ▪ SEC<br>
 <br>
 
-## 📖 Use Cases Handled
-
-- AI-driven customer support agents (voice/chat)<br>
-- Document agents for OCR-based extraction and validation (OCR + LLM)<br>
-- Voice-interactive AI using Vapi, and Voiceflow<br>
-- Intelligent RAG-based knowledge assistants<br>
-- Workflow automation for sales, HR, and ops using agents<br>
-
-## 💡 Expertise
-
-♦ AI Agents Design & Development<br>
-♦ Agentic AI with Multi-Agent Architecture<br>
-♦ LLM Integration & Customization, training with datasets to innovate new models<br>
-♦ AI Workflow Automation<br>
-♦ AI Frameworks<br>
-♦ Local AI & Private Model Hosting<br>
-♦ AI Orchestration & Control Plane<br>
-♦ Agentic RAG<br>
-♦ MCP (Model Context Protocol)<br>
-♦ Data Management & Vector data stores, indexing, quantization, searching, reranking<br>
-♦ Deployments: Cloud Platoforms (AWS, Azure), on-premises, containerization, Model serving, CI/CD Pipelines<br>
-♦ Computer Vision Capabilities: OCR, Text detection, Objects detection, Image properties, Detecting web entities <br>
-♦ Observability, Evaluation, Tracing<br>
-♦ GGUF, Quantization, LLM Families<br>
-♦ Cloud Infra Setup/Automation<br>
-♦ Containerization, Orchestration<br>
-♦ Security & Governance<br>
-<br>
-
-## 💼 Experience
-
-### ➥ AI Agents Design & Development
-- Designing intelligent autonomous agents with role-specific capabilities, enabling task execution through reasoning, memory, planning, and tool use.<br>
-- Implementing reactive, proactive, learning and goal-driven agent behaviors using LLM backbones and structured control mechanisms.<br>
-- Integrate APIs, knowledge bases, and external tools to empower agents with real-world utility and multi-functionality.<br>
-
-### ➥ AI Agent Lifecycle Management<br>
-- Designing agent lifecycle hooks (init, task, feedback, memory reset)<br>
-- Handling context windows, memory management, and retries<br>
-
-### ➥ Agentic AI with Multi-Agent Architecture<br>
-- Designing scalable AI systems using multi-agent patterns like parallel, sequential, router, loop, and aggregator for orchestrating complex workflows.<br>
-- Inter-agent communication and collaboration through shared memory, messaging protocols, and dynamic task delegation.<br>
-- Applying diverse agent architectures including Reactive, Deliberative, Hybrid, Neural-Symbolic, and cognitive models like SOAR and ACT-R.<br>
-- Building real-world multi-agent systems using frameworks like CrewAI, LangGraph, and OpenAI Agents SDK to deliver autonomous, tool-using AI agents.<br>
-
-### ➥ LLM Integration & Customization<br>
-- Embed LLMs (OpenAI GPT, Claude, LLaMA, etc.) into agent workflows, leveraging APIs or local deployments.<br>
-- Fine-tune or prompt-tune models using domain-specific data, enabling context-aware and customized outputs.<br>
-- Handle model evaluation, versioning, latency optimization, and fallback logic for robust deployments.<br>
-
-### ➥ PromptOps & LLMOps<br>
-- Maintaining and optimizing prompt libraries<br>
-- Evaluating prompt performance over time<br>
-- Integration with dashboards for prompt experimentation (e.g., PromptLayer, WhyLabs)<br>
-
-### ➥ AI Workflow Automation<br>
-- Use task chaining, memory recall, context injection, and tool calling to handle dynamic inputs and variable outputs.<br>
-- Building rule-based AI workflows that trigger on real-time events — such as incoming emails, CRM updates, or form submissions — to auto-classify, summarize, respond, or escalate based on pre-set business logic.<br>
-- Building automation pipelines integrating LLMs with tools like Gmail, Slack, Notion, HubSpot, and Calendly — automating reminders, lead responses, scheduling, and ticket management.<br>
-- Enabling seamless AI-driven actions like parsing documents, generating insights, sending alerts, updating records, or notifying teams — with fallback/retry logic and webhook support.<br>
-- Optimizing internal operations and customer engagement by combining agentic reasoning with structured flows — delivering faster decisions, reduced manual workload, and high reliability.<br>
-
-### ➥ AI Frameworks<br>
-- Modular Framework Proficiency: Deep hands-on experience with LangChain, LangGraph, CrewAI, and OpenAI Agents SDK to implement modular AI systems, supporting agent lifecycle control, role-based task execution, and dynamic tool invocation.<br>
-- Tool Integration & Chaining: Design and optimize complex prompt chains with integrated tools (APIs, DBs, vector stores, scrapers, browsers) to enhance agent context, enable decisions, and ensure reliability across workflows.<br>
-- Prompt Routing & Control Logic: Implement advanced routing mechanisms using prompt selectors, retrievers, and context windows to ensure efficient handling of multi-turn conversations and decision trees.<br>
-- Workflow Governance: Embed observability, guardrails, and fallback strategies within AI pipelines, enabling transparent monitoring, auditing, and fine-tuning across real-world use cases.<br>
-
-### ➥ Local AI & Private Model Hosting<br>
-- Deploy LLMs locally using tools like Ollama, LM Studio, or Text Generation WebUI for air-gapped or regulated environments.<br>
-- Quantize and compress models using GGUF, GPTQ, and AWQ to optimize performance on edge devices or limited hardware.<br>
-- Enable private AI operations without external API dependencies, preserving data privacy and operational sovereignty, cost-effective and customization<br>
-
-### ➥ AI Orchestration & Control Plane<br>
-- Build orchestrators to manage agent lifecycle, prompt flows, memory state, feedback loops, and fallback/retry mechanisms.<br>
-- Incorporate control-flow logic, decision trees, conditionals, and loop mechanisms within agent pipelines.<br>
-- Enable monitoring, observability, audit logging, and recovery in long-running or stateful agent tasks.<br>
-
-### ➥ Data Infrastructure & Vector Stores<br>
-- Implement vector-based search and retrieval systems using Pinecone, Weaviate, ChromaDB or Qdrant<br>
-- Design chunking, embedding strategies (OpenAI, Cohere, HuggingFace), indexing, filtering, and reranking pipelines.<br>
-- Secure and scale vector DBs with encryption, sharding, and tenant separation as needed.<br>
-
-### ➥ Computer Vision Capabilities<br>
-- Integrate CV modules into agent workflows to enable image parsing, document processing, layout analysis, and object recognition<br>
-- Use models/APIs for OCR, table detection, image classification, semantic segmentation, and web entity extraction<br>
-- Combine CV outputs with LLM reasoning for rich multimodal agent capabilities<br>
-
-### ➥ MCP (Model Context Protocol)<br>
-- Design and implement MCP that define how multiple models (LLMs, CV, ASR, classifiers, etc.) interact intelligently in an orchestrated environment<br>
-- Enable dynamic model routing, composition, and coordination — where agents decide at runtime which models or tools to call, in what order, and with what parameters<br>
-- Optimize cross-model communication using shared memory constructs, context adapters, and role-specific prompts, improving task decomposition and modularity<br>
-- Apply MCP frameworks to build scalable, resilient AI systems in multi-modal, multi-stage environments (e.g., document workflows, customer journey automation, enterprise process intelligence).<br>
-
-### ➥ Agentic RAG (Retrieval-Augmented Generation)<br>
-- Architecting advanced Agentic RAG systems where autonomous agents handle retrieval, filtering, synthesis, and citation — going beyond traditional RAG by adding reasoning, planning, and decision logic.<br>
-- Design intelligent retriever-reader-planner loops, where agents collaborate to pull relevant data, validate it, and formulate grounded, accurate responses with transparent attribution.<br>
-- Implement layered vector search strategies (semantic + keyword), followed by multi-pass re-ranking and summarization, improving recall without hallucination.<br>
-- Integrate domain-specific memory (structured + unstructured) and long-term vector stores into the agent’s context, enabling adaptive recall and knowledge continuity across sessions.<br>
-
-### ➥ Observability, Evaluation, Tracing<br>
-- Track model behavior, token usage, latency, and accuracy in real-time with dashboards and logs.<br>
-- Comprehensive LLM Observability: Monitor agent behaviors, user interactions, and API usage with full session-level visibility—essential for debugging and ensuring output consistency across unpredictable LLM runs.<br>
-- Evaluating Pipelines & Alerting: Implement automated eval pipelines, online testing, and alert systems to detect hallucinations, performance regressions, and degraded response quality in real time.<br>
-- Real-Time Monitoring & Failure Detection: Leverage live dashboards, session replays, and intelligent error tracking to identify agent failures, tool misuse, or broken multi-agent coordination quickly and efficiently.<br>
-- Cost & Tooling Analytics: Gain insights into LLM/API cost consumption, external tool usage patterns, and end-to-end session analytics to optimize spend and improve agent reliability.<br>
-
-### ➥ Deployment & Infrastructure<br>
-- Deployment management of agents on cloud-native platforms like AWS, Azure, or in secure on-prem environments.<br>
-- Containerize models and orchestration layers using Docker/Kubernetes for portability and scale.<br>
-- Build CI/CD pipelines to automate build, test, deploy, and rollback for agent systems.<br>
-
-### ➥ Security & Governance<br>
-- Implement security best practices including prompt injection prevention, secrets management, API rate limiting, and RBAC<br>
-- Conduct threat modeling and align systems with regulatory frameworks (HIPAA, GDPR, SOC2)<br>
-- Use validation layers and guardrails (e.g., Rebuff, Guardrails.ai, LMQL) to constrain and verify model outputs.<br>
-
-### ➥ Miscellaneous<br>
-- Deep understanding of GGUF, GPTQ, AWQ, and other quantization formats for efficient model inference.<br>
-- Capable of evaluating models based on architecture, context window, hardware requirements, and downstream performance.<br>
-- Stay current on quantization advances, tokenizer optimizations, and architecture benchmarking (MMLU, MT-Bench, etc.).<br>
-
 
 ## 🏆 Awards & Achievements
 
-- 'Core Value' award from Sapient Corporation (US) <br>
+- **'Core Value' award**, Sapient Corporation (US) <br>
 
-- ‘Technocrat’ award from Royal Bank of Scotland (UK)<br>
-
-
-## 💻 Technologies Excellences
-
-### ❒ Large Language Models (LLMs) & Hosting<br>
-- **Capabilities:** Streaming, Using Tools, Image/Video/Voice, Optimization, Prompts, Extended Thinking, Guardrails<br>
-- **Models:** OpenAI, Anthropic Claude, Cohere, Llama<br>
-- **Quantized Models:** GGUF, GPTQ, AWQ<br>
-- **Model Serving/Deployments:** Hugging Face, Ollama, LM Studio, LLMLite, Text Generation WebUI, llms.txt<br>
-
-### ❒ Agent Frameworks & Orchestration<br>
-- **Capabilities:** Prompts, Chaining, Structured Output, Tools, Runnnables, Vector Stores, Streaming, Retrievers, Graphs/Nodes/Edges, Scalability<br>
-- **Frameworks:** LangChain, LangGraph, CrewAI, AutoGen, OpenAI Agents SDK<br>
-- **Low Code Platform:** LangFlow, Relevance AI<br>
-- **Orchestration Patterns:** Planner-Executor, Chain of Thought, ReAct, Reflection<br>
-- **Memory & State:** LangMem, Redis, Chroma<br>
-- **MCP (Model Context Protocol):** Model coordination and intelligent routing<br>
-- **Agentic RAG:** Retrieval agents with goal-aware data enrichment<br>
-
-### ❒ Vector Search & Retrieval Infrastructure<br>
-- **Capabilities:** Searching, Indexing, Filtering, Reranking, Quantization<br>
-- **Databases:** Pinecone, Weaviate, Qdrant, ChromaDB<br>
-- **Embedding Models:** OpenAI, Hugging Face Transformers, Cohere<br>
-- **Indexing & Retrieval Enhancements:** Chunking, Reranking, Quantization, Hybrid Search<br>
-
-### ❒ Hugging Face Ecosystem<br>
-- **Capabilities:** Transformers, Diffusers, Datasets, Tokenizers, timm, Hub, Inference<br>
-- **Model Hub:** Hosting, loading, fine-tuning transformer models<br>
-- **Transformers:** Custom pipelines for NLP, CV, and multi-modal tasks<br>
-- **Model Deployment:** Inference Endpoints, Spaces, Accelerated Transformers<br>
-
-### ❒ AI Workflow Automation<br>
-- **Capabilities:** Prompt Chaining, Parallelization, Orchestration, Routing, Custom Functions <br>
-- **Integration & Triggers:** Gmail API, Slack API, Twilio, Calendly, HubSpot, Zapier, Webhooks, REST APIs<br>
-- **Automation Platforms:** n8n, Relevance AI, LangFLow, custom LLM-integrated flows<br>
-- **Voice & Dialog Systems:** Voiceflow.ai, Vapi for multimodal interaction<br>
-- **CRM/Data Management:** Airtable, Notion<br>
-- **End-to-End Workflows:** LLM → Tool → Agent → API → Slack/Email → Evaluation<br>
-
-### ❒ Computer Vision<br>
-- **Capabilities:** OCR & Text Detection, Object Detection & Image Segmentation, Handwriting recognition, table extraction, Invoice parsing, Image Analysis & Metadata Extraction<br>
-- **Tools:** Google Vision API, AWS Textract, Tesseract OCR, EasyOCR, OpenAPI, Claude API<br>
-- **Computer Vision & Agent Workflows:** <br>
-   - Image-to-insight pipelines using LangChain or CrewAI for OCR → Text → RAG<br>
-   - Playwright-driven browser agents with CV to extract info from images, charts, dashboards<br>
-
-### ❒ Observability, Logging, Tracing<br>
-- **Capabilities:** Observability, Logging, Tracing, Cost Control, Failure Detection, Spans, Caching, Agent Testings<br>
-- **Tools:** LangSmith, AgentOps, LangWatch, LangFuse, LangTrace<br>
-- **Tracing Agents:** Function-level tracebacks, memory graphing, and execution flow visualization<br>
-
-### ❒ Deployment, Infra & MLOps<br>
-- **Containerization & Orchestration :** Docker, Kubernetes, Helm, Kustomize<br>
-- **Model Serving:** TorchServe, Triton Inference Server, TGI, vLLM<br>
-- **CI/CD:** GitHub Actions, GitLab CI, Jenkins<br>
-- **Cloud Platforms:** AWS (ECS, EKS, SageMaker), Azure (Container Apps, ML Studio)<br>
-- **Proxy & Networking:** Reverse Proxy Configs, NGINX, Cloudflare Tunnels, Custom Proxy Managers<br>
-
-### ❒ Security & Governance<br>
-- **Prompt Protection:** Guardrails AI, Rebuff<br>
-- **Access Control:** OAuth2, RBAC, API Gateways<br>
-- **Compliance Alignment:** SOC 2, HIPAA, GDPR, ISO 27001<br>
-- **Secrets & Vaults:** HashiCorp Vault, AWS Secrets Manager<br>
-- **Data Handling:** PII scrubbing, prompt validation, payload encryption<br>
-
-### ❒ Miscellaneous<br>
-- **Prog. Languages:** Python, Node.js, Bash, TypeScript<br>
-- **Python Packages/Frameworks:** FastAPI, Numpy, Pandas, Matplotlib<br>
-- **Coding Agents/IDE:** Claude Code AI, Cursor AI, Windsurf, VS Code<br>
-- **Notebooks:** JupyterLab, Google Colab<br>
-- **AI Interface Tools:** Streamlit, Gradio<br>
-- **Browser Emulation:** Playwright for web automation and agent-driven browsing<br>
-- **Full-stack Agent Portals:** LLM backends with FastAPI + Streamlit frontend integrations<br>
-- Autonomous web-browsing and structured web data extraction using Firecrawl<br>
-- Browser emulation and UI automation for autonomous agents using PlayWright<br>
+- **'Technocrat' award**, Royal Bank of Scotland <br>
 
 
-## 📈 Business Outcomes I Deliver<br>
-<br>
-✓  Automate business workflows using intelligent LLM agents and multi-step orchestration.<br>
-✓  Accelerate AI product launches with scalable, production-ready deployment pipelines.<br>
-✓  Optimize cost and performance with local/quantized models and dynamic prompt routing.<br>
-✓  Improve reliability via real-time evaluation, tracing, and hallucination detection.<br>
-✓  Secure AI systems with prompt validation, access control, and compliance alignment.<br>
+
+
+## 🧰 Tech Stack
+
+**AI infrastructure**<br>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-1E293B?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-00B04F?style=for-the-badge)
+![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**Cloud and infrastructure as code**<br>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=for-the-badge)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-E7157B?style=for-the-badge)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+
+**Containers and CI/CD**<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**Observability**<br>
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge)
+
+**Data, languages and tools**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br>
 
-
-## 👨‍💻 Tech Stack 
-
-![OpenAI API](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=Claude&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000.svg?style=for-the-badge&logo=Ollama&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50.svg?style=for-the-badge&logo=CrewAI&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=LangGraph&logoColor=white) ![LangFlow](https://img.shields.io/badge/Langflow-000000.svg?style=for-the-badge&logo=Langflow&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black) ![Gradio](https://img.shields.io/badge/Gradio-F97316.svg?style=for-the-badge&logo=Gradio&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)<br>
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)<br>
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)<br>
-
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![TurboRepo](https://img.shields.io/badge/Turborepo-FF1E56.svg?style=for-the-badge&logo=Turborepo&logoColor=white) <br> 
-<br>
-<br>
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=rishirajbansal&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=rishirajbansal&theme=dark&hide_border=true) <br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishirajbansal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=php,html,css&langs_count=8&layout=compact)<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishirajbansal&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishirajbansal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=php,html,css&langs_count=8&layout=compact)<br/>
+
 
 <!-- ### 🔝 Top Contributed Repo -->
 ![](https://github-contributor-stats.vercel.app/api?username=rishirajbansal&theme=dark&limit=3&combine_all_yearly_contributions=true&hide_border=true)<br/>
 
+
+---
+
+<p align="center">
+<b>Planning to put LLMs, agents or RAG into production, or need a SaaS platform that releases safely and scales?</b><br>
+Reach me on <a href="https://www.linkedin.com/in/rishirajbansal">LinkedIn</a> or at <a href="mailto:rishi@rishirajbansal.com">rishi@rishirajbansal.com</a>
+</p>
