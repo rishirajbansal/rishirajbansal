@@ -42,7 +42,6 @@ I deploy and operate the platforms behind **LLM applications, AI agents, RAG sys
 | **$12K/month saved** on LLM API costs | Quantized open-source models self-hosted on GPU instances in a private AWS VPC, with LiteLLM routing only complex, non-sensitive requests to cloud APIs |
 | **40% fewer hallucinations**, 60% faster responses, 35% higher customer satisfaction | Production RAG with incremental ingestion, multi-pass reranking, grounding checks, tracing and evaluation |
 | **4x faster onboarding**, 70% of repetitive workflows automated | HIPAA-aware multi-agent automation with encryption, role-based access, audit logging and human review |
-| **8-10 microservices**, zero manual release steps | GroundControl: an infrastructure-as-code platform deploying across separate Dev, QA, UAT and Prod AWS accounts |
 | **99.99%+ uptime** and **30-60% cloud cost savings** | Cloud infrastructure on AWS and Azure for healthcare, finance, EdTech and SaaS clients |
 
 
