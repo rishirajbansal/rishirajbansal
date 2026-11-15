@@ -23,7 +23,9 @@ Deploying and running LLMs, AI agents, RAG systems and MCP servers in production
 
 ## 🙏 About Myself
 
-AI Engineer specialized in building production-ready multi-agent systems, intelligent workflows, and Gen AI integrations. I help startups and enterprises automate decision-making, reduce costs, and launch faster using cutting-edge LLM tooling and agent frameworks.<br>
+AI Infrastructure Engineer turning AI prototypes into production systems: LLMs, agents and RAG that stay up, stay secure and stay within budget as usage grows. Most AI projects don't fail because of the model; they fail at scale, on cost or in the security review. I build the infrastructure that gets them through all three.
+
+I deploy and operate the platforms behind **LLM applications, AI agents, RAG systems and MCP servers**: model hosting and routing, agent runtimes, retrieval pipelines, tool access, observability, evaluation, security controls and CI/CD. Alongside AI infrastructure, I design and run **DevOps for SaaS platforms**: multi-account cloud foundations, infrastructure as code, automated releases and compliance.<br>
 
 ♦ **3+ years** deploying LLM, RAG and agent workloads in production <br>
 ♦ **12+ years** in DevOps, DevSecOps and cloud architecture <br>
