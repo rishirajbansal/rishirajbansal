@@ -343,8 +343,8 @@ flowchart LR
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishirajbansal&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishirajbansal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=php,html,css&langs_count=8&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rishirajbansal&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishirajbansal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=php,html,css&langs_count=8&layout=compact)<br/>
 
 
 <!-- ### 🔝 Top Contributed Repo -->
