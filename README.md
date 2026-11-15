@@ -29,19 +29,10 @@ I deploy and operate the platforms behind **LLM applications, AI agents, RAG sys
 
 ♦ **3+ years** deploying LLM, RAG and agent workloads in production <br>
 ♦ **12+ years** in DevOps, DevSecOps and cloud architecture <br>
-♦ **20+ years** of total experience in Software engineering and Systems Architecture. Providing software services & solutions to various industry verticals in most reliable & consistent manner, assisting the industries to make their businesses more successful with optimum costing structure and rapid ROIs execution plans. <br>
+♦ **20+ years** of total experience in Software engineering and Systems Architecture. <br>
 ♦ Built and ran a **HIPAA- and PCI DSS-compliant** AWS platform from scratch to go-live <br>
 ♦ Long-term, repeat engagements with clients in the **US, UK and EU** <br>
 ♦ **Languages:** Python ▪ Node.js / TypeScript ▪ Java ▪ Bash <br>
-
-From LLM-powered AI Agents to ML infrastructure orchestration, specialize in solving complex challenges with a focus on reliability, cost-efficiency, and governance.<br>
-
-<!--
-🔭 Find me on:<br>
-- 🌐 https://www.linkedin.com/in/rishirajbansal <br>
-- 🌐 https://www.rishirajbansal.com<br>
-- 📬 [rishi@rishirajbansal.com](mailto:rishi@rishirajbansal.com) *or* [rishiraj.specialist@gmail.com](mailto:rishiraj.specialist@gmail.com) 
--->
 
 
 ## ✨ Work Highlights
@@ -281,7 +272,7 @@ flowchart LR
 
 - **'Core Value' award**, Sapient Corporation (US) <br>
 
-- **'Technocrat' award**, Royal Bank of Scotland <br>
+- **'Technocrat' award**, Royal Bank of Scotland (UK) <br>
 
 
 
@@ -357,5 +348,5 @@ flowchart LR
 
 <p align="center">
 <b>Planning to put LLMs, agents or RAG into production, or need a SaaS platform that releases safely and scales?</b><br>
-Reach me on <a href="https://www.linkedin.com/in/rishirajbansal">LinkedIn</a> or at <a href="mailto:rishi@rishirajbansal.com">rishi@rishirajbansal.com</a>
+Reach me on <a href="https://www.linkedin.com/in/rishirajbansal">LinkedIn</a> or at <a href="mailto:rishi@rishirajbansal.com">rishi@rishirajbansal.com</a>.
 </p>
